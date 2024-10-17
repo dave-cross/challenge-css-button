@@ -1,0 +1,13 @@
+/* base styles */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font: 3em sans-serif;
+}
+
+/* Add your styles here */
